@@ -1,1 +1,1 @@
-# Solutions-form-SoftUni-courses
+# Solutions-from-SoftUni-courses
